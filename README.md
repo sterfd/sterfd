@@ -1,6 +1,6 @@
 ## Hey there, I'm Stef 👋
 
-I'm currently a software engineer at [Whitebalance](https://www.whitebalance.co) building solutions for content copyright risk for professional sports teams and other live entertainment organizations. I was previously in the W2'24 batch at the [Recurse Center](https://www.recurse.com).
+I'm currently a software engineer at [Whitebalance](https://www.whitebalance.co) building solutions to mitigate content copyright risk for professional sports teams and other live entertainment organizations. I was previously in the W2'24 batch at the [Recurse Center](https://www.recurse.com).
 
 <!--
 **sterfd/sterfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
